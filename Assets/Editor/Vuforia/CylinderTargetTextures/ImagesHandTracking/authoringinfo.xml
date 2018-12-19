@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="PulseiraDireita" version="3.0" targetId="afa70b4d60174707a3a2175a50df8c7d" sideLength="0.060000" topDiameter="0.050000" bottomDiameter="0.050000" sideImage="PulseiraDireita.Body_scaled.jpg"/>
+        <CylinderTarget name="PulseiraEsquerda" version="3.0" targetId="ad9f19c68f864ad6b44f1229312ef20f" sideLength="0.060000" topDiameter="0.050955" bottomDiameter="0.050955" sideImage="PulseiraEsquerda.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
